@@ -1,0 +1,58 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>Fan zone</title>
+	<link href="Style/homepage.css" rel="stylesheet">
+    </head>
+    <body>
+        <h2><u>Team Updates</u></h2>
+            <h4>Super computer predicts City to win the league  after everton point reduction</h4>
+        <img src="C:\Users\RAYO\Documents\project\Imagesfolder\league.png">
+            <p>Manchester City have been tipped by a football supercomputer to claim a record-breaking fourth straight Premier League title.
+
+                Pep Guardiola has overseen an incredible period of Premier League dominance at City, with five of the last six titles in the trophy cabinet at the Etihad. The Catalan reached the pinnacle of European football last season, adding the FA Cup and Champions League for a historic treble.
+
+                No team in the Premier League era has won four consecutive titles but the supercomputer from Bettingexpert has predicted City to do exactly that. Guardiola's side have been backed to finish on around 84 points, which would put them four points clear of second-placed Arsenal.</p>
+                <h2>Injury News</h2>
+                <p>Here is a list of the players with injuries</p>
+                <table>
+                    <tr>
+                        <th>Player</th>
+                        <th>Reason</th>
+                        <th>Potential Return</th>
+                        <th>Status</th>
+                    </tr>
+                    <tr>
+                        <td>Kevin Debruyne</td>
+                        <td>Thigh Injury</td>
+                        <td>27/12/2023</td>
+                        <td>Ruled out</td>
+                    </tr>
+                    <tr>
+                        <td> Ederson Moraes</td>
+                        <td>Ankle/Foot injury</td>
+                        <td>25/12/2023</td>
+                        <td>50%</td>
+                    </tr>
+                    <tr>
+                        <td>Earling Halaand</td>
+                        <td>Ankle/foot injury</td>
+                        <td>19/11/2023</td>
+                        <td>50%</td>
+                    </tr>
+                    <tr>
+                        <td>John Stones</td>
+                        <td>Thigh Injury</td>
+                        <td>No return Date issued</td>
+                        <td>Ruled out</td>
+                    </tr>
+                    <tr>
+                        <td>Matheus Nunes</td>
+                        <td>Foot Injury</td>
+                        <td>No return date issued</td>
+                        <td>25%</td>
+                    </tr>
+                </table>
+                <a href="">
+            </body>
+</html>

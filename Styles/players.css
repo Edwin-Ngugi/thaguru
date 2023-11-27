@@ -1,0 +1,80 @@
+body{
+    background-color: skyblue;
+    margin: 10px;
+}
+#coach{
+    width: 200px;
+            height: auto; 
+            margin-right: 20px;
+}
+.container {
+    display: flex;
+    align-items: center;
+}
+#pep{
+    margin: 0;
+    background-color: #ddd;
+    color: black;
+}
+#logo{
+    display: block;
+    margin: auto;
+}
+h3{
+    background-color: black;
+    color: azure;
+}
+p{
+    background-color: black;
+    color:blanchedalmond;
+}
+.menu-button {
+    background-color: black;
+    color: white;
+    padding: 10px 20px;
+    font-size: 16px;
+    border: none;
+    cursor: pointer;
+    position: fixed;
+            top: 10px;
+            right: 10px;
+}
+
+/* Style for the menu (initially hidden) */
+.menu-content {
+    display: none;
+    position: left;
+    background-color: #f9f9f9;
+    min-width: 160px;
+    box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2);
+    z-index: 1;
+}
+
+/* Style for menu items */
+.menu-content a {
+    color: black;
+    padding: 12px 16px;
+    display: block;
+    text-decoration: none;
+}
+
+/* Change color on hover */
+.menu-content a:hover {
+    background-color: #ddd;
+}
+#goback {
+    position: fixed;
+    top: 10px;
+    left: 10px;
+    padding: 10px;
+    background-color: #4CAF50;
+    color: white;
+    border: none;
+    cursor: pointer;
+}
+.info{
+    background-color: white;
+    display: flex;
+    align-items: center;
+    margin: 10px;
+}
