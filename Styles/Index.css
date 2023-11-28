@@ -7,13 +7,7 @@ login_form {  display: table; }
 div.form-example {  display: table-row; }
 label, input {  display: table-cell;  margin-bottom: 10px; }
 label {  padding-left: 10px; } 
-#goback {
-    position: fixed;
-    top: 10px;
-    left: 10px;
-    padding: 10px;
-    background-color: #4CAF50;
-    color: white;
-    border: none;
-    cursor: pointer;
+#logo{
+    display: block;
+    margin: auto;
 }
